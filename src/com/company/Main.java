@@ -6,6 +6,8 @@ public class Main {
 	System.out.println("Hello World");
 	System.out.println("Next Commit");
 	System.out.println("Changes on IDE Intellij Idea1");
+	System.out.println("Changes on IDE Intellij Idea");
+	System.out.println("Changes on IDE Intellij Idea2");
 	// write your code here
     }
 }
